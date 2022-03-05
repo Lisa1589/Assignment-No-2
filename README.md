@@ -1,3 +1,2 @@
 # Assignment-No-2
-**Last Date for Submission of Assignment is 4th March.,2022.
-**
+Submission of Assignment 2 by Harshit Bisht (Section D).
