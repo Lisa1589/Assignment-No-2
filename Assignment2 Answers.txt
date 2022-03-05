@@ -1,0 +1,85 @@
+Assignment 2
+
+1. Why is DevOps a major requirement in Today's Scenario? 
+
+Answer: DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments. DevOps—the amalgamation of development (Dev) and operations (Ops) teams—is an organizational approach that enables faster development of applications and easier maintenance of existing deployments. By enabling organizations to create stronger bonds between Dev, Ops and other stakeholders in the company, DevOps promotes shorter, more controllable iterations through the adoption of best practices, automation and new tools. DevOps is not a technology per se, but it covers everything from the organisation to culture, processes and tooling. Initial steps usually include Continuous integration and continuous delivery (CI/CD), real-time monitoring, incident response systems and collaboration platforms.
+
+Teams who take on a DevOps approach tend to finish their projects faster. There are often fewer miscommunications, and improvements and other needed changes are done quickly. The DevOps approach encourages more collaboration between the operations and development teams, and everyone’s objectives are more aligned. By not using a DevOps approach, teams may find that projects end up late more often, and they are just not as efficient overall. 
+
+Here are the top five reasons why DevOps is needed
+
+-Automation of Delivery Processes
+-Increased Visibility of Infrastructure Requirement
+-Improved Performance and Productivity of Teams
+-Reduced Overall Costs
+-Business Agility and Business Value
+
+Software and the Internet have transformed the world and its industries, from shopping to entertainment to banking. Software no longer merely supports a business; rather it becomes an integral component of every part of a business. Companies interact with their customers through software delivered as online services or applications and on all sorts of devices. They also use software to increase operational efficiencies by transforming every part of the value chain, such as logistics, communications, and operations. In a similar way that physical goods companies transformed how they design, build, and deliver products using industrial automation throughout the 20th century, companies in today’s world must transform how they build and deliver software.
+
+
+2. Explain all the DevOps tools in  Detail.
+
+Answer: Tools in DevOps 
+
+1. Git
+Git is a distributed version control tool used to manage source code.
+
+Features of Git:
+-It’s a software tool
+-It is used to track changes in the source code
+-Multiple developers can work together
+-Supports non-linear development 
+
+2. Maven
+Maven is an automation tool that helps teams build and manage software projects quickly.
+
+Features of Maven:
+-Supports parallel builds
+-Easy to use
+-Instant access to new features with no additional configurations
+-Easy build process 
+
+3. Selenium
+Selenium is an open-source automation tool that is used to test web applications, mainly for regression and functional testing. Regression testing is the process to make sure that the older programming still works with the new changes. Functional testing ensures that the application has adequately satisfied the requirements.
+
+Features of Selenium:
+-Fast execution
+-High accuracy
+-Allows scripting in several languages
+-Supports parallel test execution
+
+4. Jenkins
+Jenkins is an open-source continuous integration tool. It helps to automate continuous development, testing, and deployment of newly created codes.
+
+Features of Jenkins:
+-Easy installation and configuration
+-Has multiple plugins
+-Can be extended via plugins
+-Easily distributed across multiple machines
+
+5. Docker
+Docker is an OS-level virtualization software platform that enables developers and IT administrators to create, deploy and run applications and all their dependencies in a Docker container. A Docker Container is an executable package of an application and its dependencies together.
+
+Features of Docker:
+-High scalability and efficiency
+-Short boot-up uptime
+-Reusable data volumes 
+-Isolated applications
+
+6. Ansible
+Ansible is a configuration management tool allowing applications to be deployed automatically in a variety of environments.
+
+Features of Ansible:
+Push-based configuration tool
+Agentless tool
+Maintains consistency of a product’s performance
+Uses SSH for secure connections
+
+7. Nagios
+Nagios is an open-source tool that is used to monitor systems, servers, networks, and storage infrastructure.
+
+Features of Nagios:
+-Easy to use
+-Comprehensive monitoring
+-High availability
+-Problem remediation — enables an automatic restart of failed applications and services
